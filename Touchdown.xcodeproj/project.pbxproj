@@ -26,6 +26,7 @@
 		A609787A26FB11D8000D59A0 /* CategoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609787926FB11D8000D59A0 /* CategoryModel.swift */; };
 		A609787C26FB1316000D59A0 /* CategoryItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609787B26FB1316000D59A0 /* CategoryItemView.swift */; };
 		A609787E26FB14D8000D59A0 /* CategoryGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609787D26FB14D8000D59A0 /* CategoryGridView.swift */; };
+		A609788126FB1672000D59A0 /* SectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609788026FB1672000D59A0 /* SectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		A609787926FB11D8000D59A0 /* CategoryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryModel.swift; sourceTree = "<group>"; };
 		A609787B26FB1316000D59A0 /* CategoryItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItemView.swift; sourceTree = "<group>"; };
 		A609787D26FB14D8000D59A0 /* CategoryGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryGridView.swift; sourceTree = "<group>"; };
+		A609788026FB1672000D59A0 /* SectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 				A609787726FB0548000D59A0 /* FeaturedTabView.swift */,
 				A609787B26FB1316000D59A0 /* CategoryItemView.swift */,
 				A609787D26FB14D8000D59A0 /* CategoryGridView.swift */,
+				A609788026FB1672000D59A0 /* SectionView.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				A609787E26FB14D8000D59A0 /* CategoryGridView.swift in Sources */,
 				A609787A26FB11D8000D59A0 /* CategoryModel.swift in Sources */,
 				A609786A26FAF319000D59A0 /* Constant.swift in Sources */,
+				A609788126FB1672000D59A0 /* SectionView.swift in Sources */,
 				A609787C26FB1316000D59A0 /* CategoryItemView.swift in Sources */,
 				A609787826FB0548000D59A0 /* FeaturedTabView.swift in Sources */,
 				A609787226FB02CA000D59A0 /* PlayerModel.swift in Sources */,
