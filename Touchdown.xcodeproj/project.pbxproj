@@ -19,6 +19,8 @@
 		A609786C26FAF433000D59A0 /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609786B26FAF433000D59A0 /* FooterView.swift */; };
 		A609786E26FAF7C8000D59A0 /* NavigationBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609786D26FAF7C8000D59A0 /* NavigationBarView.swift */; };
 		A609787026FAF905000D59A0 /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609786F26FAF905000D59A0 /* LogoView.swift */; };
+		A609787226FB02CA000D59A0 /* PlayerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609787126FB02CA000D59A0 /* PlayerModel.swift */; };
+		A609787426FB031D000D59A0 /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609787326FB031D000D59A0 /* CodableBundleExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,8 @@
 		A609786B26FAF433000D59A0 /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
 		A609786D26FAF7C8000D59A0 /* NavigationBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarView.swift; sourceTree = "<group>"; };
 		A609786F26FAF905000D59A0 /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
+		A609787126FB02CA000D59A0 /* PlayerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerModel.swift; sourceTree = "<group>"; };
+		A609787326FB031D000D59A0 /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +142,7 @@
 		A609786626FAF293000D59A0 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				A609787126FB02CA000D59A0 /* PlayerModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -145,6 +150,7 @@
 		A609786726FAF29B000D59A0 /* Extension */ = {
 			isa = PBXGroup;
 			children = (
+				A609787326FB031D000D59A0 /* CodableBundleExtension.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -230,12 +236,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A609787426FB031D000D59A0 /* CodableBundleExtension.swift in Sources */,
 				A609786E26FAF7C8000D59A0 /* NavigationBarView.swift in Sources */,
 				A609787026FAF905000D59A0 /* LogoView.swift in Sources */,
 				A609784B26FAEF59000D59A0 /* ContentView.swift in Sources */,
 				A609786C26FAF433000D59A0 /* FooterView.swift in Sources */,
 				A609784926FAEF59000D59A0 /* TouchdownApp.swift in Sources */,
 				A609786A26FAF319000D59A0 /* Constant.swift in Sources */,
+				A609787226FB02CA000D59A0 /* PlayerModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
