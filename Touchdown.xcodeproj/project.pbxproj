@@ -29,6 +29,7 @@
 		A609788126FB1672000D59A0 /* SectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609788026FB1672000D59A0 /* SectionView.swift */; };
 		A609788326FB1907000D59A0 /* TitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609788226FB1907000D59A0 /* TitleView.swift */; };
 		A609788526FB19E8000D59A0 /* ProductModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609788426FB19E8000D59A0 /* ProductModel.swift */; };
+		A609788726FB1B62000D59A0 /* ProductItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A609788626FB1B62000D59A0 /* ProductItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		A609788026FB1672000D59A0 /* SectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionView.swift; sourceTree = "<group>"; };
 		A609788226FB1907000D59A0 /* TitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleView.swift; sourceTree = "<group>"; };
 		A609788426FB19E8000D59A0 /* ProductModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductModel.swift; sourceTree = "<group>"; };
+		A609788626FB1B62000D59A0 /* ProductItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				A609787D26FB14D8000D59A0 /* CategoryGridView.swift */,
 				A609788026FB1672000D59A0 /* SectionView.swift */,
 				A609788226FB1907000D59A0 /* TitleView.swift */,
+				A609788626FB1B62000D59A0 /* ProductItemView.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				A609787026FAF905000D59A0 /* LogoView.swift in Sources */,
 				A609784B26FAEF59000D59A0 /* ContentView.swift in Sources */,
 				A609787626FB04D6000D59A0 /* FeaturedItemView.swift in Sources */,
+				A609788726FB1B62000D59A0 /* ProductItemView.swift in Sources */,
 				A609786C26FAF433000D59A0 /* FooterView.swift in Sources */,
 				A609784926FAEF59000D59A0 /* TouchdownApp.swift in Sources */,
 				A609787E26FB14D8000D59A0 /* CategoryGridView.swift in Sources */,
