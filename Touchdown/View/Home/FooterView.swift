@@ -20,12 +20,12 @@ struct FooterView: View {
         .foregroundColor(.gray)
         .layoutPriority(0)
       
-        Text("Copyright © Nic Deane\nAll rights reserved")
-          .font(.footnote)
-          .fontWeight(.bold)
-          .foregroundColor(.gray)
-          .multilineTextAlignment(.center)
-          .layoutPriority(1)
+      Text("Copyright © Nic Deane\nAll rights reserved")
+        .font(.footnote)
+        .fontWeight(.bold)
+        .foregroundColor(.gray)
+        .multilineTextAlignment(.center)
+        .layoutPriority(1)
     }//: Vstack
     .padding()
   }
